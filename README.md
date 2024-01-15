@@ -29,7 +29,7 @@ This project aims to develop an optic disc segmentation algorithm. Proper segmen
 
 
 ## Results
-#### Original Image <span style="margin-left: 5000px;"></span> Ground Truth Image <span style="margin-left: 5000px;"></span> Predicted Image
+<span style="margin-right: 30px;">#### Original Image</span><span style="margin-right: 30px;">Ground Truth Image</span><span style="margin-right: 30px;">Predicted Image</span>
 <p align="center">
   <img src="https://github.com/harneet2512/Optic-Disc-and-cup-segmentaation/blob/main/V0238.png" alt="Result-1">
 </p>
