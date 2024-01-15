@@ -4,7 +4,10 @@
 
 The optic disc (optic nerve head) is the location where ganglion cell axons exit the eye to form the optic nerve. The optic cup is the white, cup-like area in the center of the optic disc. The ratio of the size of the optic cup to the optic disc (cup-to-disc ratio, or C/D) is one measure used in the diagnosis of glaucoma.
 
-![Optic Disc](https://github.com/harneet2512/Optic-Disc-and-cup-segmentaation/blob/main/Illustration.jpg)
+<p align="center">
+  <img src="https://github.com/harneet2512/Optic-Disc-and-cup-segmentaation/blob/main/Illustration.jpg" alt="Illustration">
+</p>
+
 
 ## Cup-to-Disc Ratio (CDR)
 
