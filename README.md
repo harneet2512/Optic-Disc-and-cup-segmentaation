@@ -28,8 +28,8 @@ The classification based on CDR is as follows:
 This project aims to develop an optic disc segmentation algorithm. Proper segmentation is vital for accurate measurement of the CDR, contributing to the early diagnosis and monitoring of glaucoma.
 
 
-## Images
-
+## Results
+## Original Image                              Ground Truth Image                          Predicted Image
 <p align="center">
   <img src="https://github.com/harneet2512/Optic-Disc-and-cup-segmentaation/blob/main/V0238.png" alt="Result-1">
 </p>
