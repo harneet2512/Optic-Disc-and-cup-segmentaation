@@ -30,9 +30,19 @@ This project aims to develop an optic disc segmentation algorithm. Proper segmen
 
 ## Images
 
+<p align="center">
+  <img src="https://github.com/harneet2512/Optic-Disc-and-cup-segmentaation/blob/main/V0238.png" alt="Result-1">
+</p>
+
+<p align="center">
+  <img src="https://github.com/harneet2512/Optic-Disc-and-cup-segmentaation/blob/main/n0088.png" alt="Result-2">
+</p>
 
 
-![CDR Measurement](path/to/cdr_measurement_image.png)
+<p align="center">
+  <img src="https://github.com/harneet2512/Optic-Disc-and-cup-segmentaation/blob/main/20051202_37011_0400_PP.png" alt="Result-3">
+</p>
+
 
 Feel free to contribute or report issues.
 
